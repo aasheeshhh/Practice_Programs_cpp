@@ -1,5 +1,5 @@
 //10 june 2025
-
+// fuck
 #include <iostream>
 #include <iomanip> //sets precision for floating point numbers
 
