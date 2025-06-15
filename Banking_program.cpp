@@ -1,5 +1,4 @@
-//10 june 2025
-// fuck
+//10 june 2025      
 #include <iostream>
 #include <iomanip> //sets precision for floating point numbers
 

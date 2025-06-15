@@ -34,6 +34,7 @@ int main(){
     M = Multiplication
     S = Substraction
     )";
+   
 
     cout<<"select the operation A D M S\n";
     cin>> op ;
